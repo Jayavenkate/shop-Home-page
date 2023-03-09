@@ -1,0 +1,36 @@
+
+.shop-name{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    height: 230px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: large;
+}
+.main-container{
+    margin-top: 50px;
+    text-align: center;
+    width: 320px;
+    height: 400px;
+    margin-bottom: 60px;
+}
+.img{
+    width: 320px;
+}
+.product-item{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin-left:200px;
+}
+body{
+    margin: 0;
+}
+.button{
+    border: 1px solid black;
+    width: max-content;
+    margin-top:10px;
+    margin-left: 10px;
+    margin-right: auto;
+}
